@@ -1,0 +1,31 @@
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+## 👋 Hi, We are High-Entropy Energy Materials Lab [@Great Bay University](https://www.gbu.edu.cn/)
+
+- 👀 We are interested in **Deisgn high-entropy energy materials via machine learning**, **Multiscale modeling**, **Mechanical properties of high-entropy materials**, **Density functional theory**, **Heterogeneous catalysis** ...
+
+- 📫 [**GitHub personal page**](https://jzhang-github.github.io/)
+- 🏢 [**My GBU page**](https://www.gbu.edu.cn/detail/article/985)
+- :man_scientist: [ResearchGate](https://www.researchgate.net/profile/Jun-Zhang-369)
+- :man_scientist: [Google Scholar](https://scholar.google.com/citations?user=EvTN9dsAAAAJ&hl=en)
+- 🎓: [My CityU page](https://scholars.cityu.edu.hk/en/persons/jun-zhang(73e8f2f2-8e1e-49fd-a71f-104fa6cb7c17).html)
+
+- :email: [Email](mailto:jzhang@gbu.edu.cn)
+
+
+<!---
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+jzhang-github/jzhang-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+**长期招收深度学习势、理论计算、多相催化、高熵合金等方向访问学生和研究助理，有意向者欢迎联系[jzhang@gbu.edu.cn](mailto:jzhang@gbu.edu.cn)。**
